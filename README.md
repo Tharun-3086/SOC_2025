@@ -1,3 +1,4 @@
 # SOC_2025
 1. "data_pipeline.ipynb" file contains the code to fetch stocks/shares data using yfinance and some minor plots of the following data.
-2. "data_pipeline.docx"  is the detailed report for above code written in "data_pipeline.ipynb" 
+2. "data_pipeline.docx"  is the detailed report for above code written in "data_pipeline.ipynb" and I have mentioned what i have learnt till now from the Project till date.
+3. What I've majorly learnt newly through this Project is RL(Reinfrocemnt Learning), I have followed CS285 youtube playist for doing so, which was provided by our Mentors. The Playist covers all the basic stuff required to start up with RL, and later goes into Various Algorithms used in RL and the Pace is not too fast/slow, which helped in grasping the concept, and Other thing I've been introduced to is using the "yfinance" library , which helps us fetch data data regarding prices/values of stcoks and cryptocurrencies using tickers and other built-in objects/methods, where I have used GOOGLE and BITCOIN in my case(for Project).
